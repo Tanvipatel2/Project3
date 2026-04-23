@@ -1,0 +1,20 @@
+.\venv\Scripts\Activate.ps1
+
+then write 
+python main.py
+____________________________________________________
+
+PS C:\Users\Tanvi\OneDrive\Desktop\Intership work\VoiceAssistantProject> .\venv\Scripts\Activate.ps1                                                                      
+(venv) PS C:\Users\Tanvi\OneDrive\Desktop\Intership work\VoiceAssistantProject> python main.py                                                                            
+Assistant: Hello Tanvi. I am your personal assistant. How can I help you?            
+Listening...
+Assistant: Sorry, I did not understand.
+Listening...
+You said: weather
+Assistant: Which city?
+Listening...
+Assistant: I did not catch that. Please say the city again.
+Listening...
+You said: Ahmedabad
+Assistant: The temperature in ahmedabad is 35.02°C with smoke
+Listening...
